@@ -51308,7 +51308,7 @@ A.EN.prototype={
 L(a){var s=null
 return new A.rr(new A.oG(B.Iw,new A.FI(s,s,1/0,56),s),A.a73(!0,A.acQ(A.a([A.JQ(A.Kj(s,new A.pT(A.a3G(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.Xv("https://candle-far-amaranthus.glitch.me/",0,s)),new A.ZV(this),this.d),s,s,800,s,s,1600),s,s)],t.F),B.pD),!0),s)}}
 A.ZV.prototype={
-$1(a){a.hk("const element = document.getElementById('img1');element.style.display='none';")},
+$1(a){a.hk("document.getElementById('img1').style.display='none';")},
 $S:340}
 A.RA.prototype={}
 A.Xz.prototype={}
